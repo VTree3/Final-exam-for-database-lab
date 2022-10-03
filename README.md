@@ -1,2 +1,2 @@
 # Final-exam-for-database-lab
-the final exam for database lab. Sadly I couldn't find the database for the exams. However, I'll try to continue searching for it.
+the final exam for database lab. The problem is embedded inside the docx file, and the database inside the create+insert.sql file.
